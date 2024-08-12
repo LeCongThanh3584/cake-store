@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+<<<<<<< HEAD
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/admin/CakeStore/update-cakestore.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/admin/CakeStore" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/admin/CakeStore/view-cakestore.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/admin/CakeStore" />
+=======
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/admin/cake/add-cake.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/admin/cake" />
+>>>>>>> 9521fe98e409c1b2f245f82c754d30ae80dad7ef
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/admin/store/view-stores.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/admin/store" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/admin/user/create-user.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/admin/user" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+.font-size-label {
+    font-size: 14px !important;
+}
+
+.padding-form-address {
+    padding: 0px 50px !important;
+}
+
+.hover:hover {
+    cursor: pointer !important;
+}
+
+.content-select-store {
+    max-height: 100px;
+    overflow-y: auto;
+    padding: unset
+}
+
+.border-red {
+    border: 1px solid red !important;
+}

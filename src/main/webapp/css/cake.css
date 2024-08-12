@@ -1,0 +1,8 @@
+.blue-background {
+    background-color: #007bff; /* Màu xanh dương */
+    color: white; /* Màu chữ trắng */
+}
+
+#multiSelect {
+    display: none; /* Ẩn danh sách chọn ban đầu */
+}
